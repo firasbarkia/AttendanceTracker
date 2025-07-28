@@ -1,6 +1,3 @@
-Here’s an improved version of your README file, with clearer structure, formatting, and enhanced clarity:
-
----
 
 # 📘 Attendance Tracker App
 
